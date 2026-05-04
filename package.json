@@ -1,0 +1,17 @@
+{
+  "name": "pm-roadmap",
+  "version": "1.0.0",
+  "description": "A gamified roadmap to become a Product Manager in 2026",
+  "type": "module",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build required'",
+    "lint": "echo 'No linter configured'"
+  },
+  "keywords": ["product-management", "roadmap", "learning"],
+  "author": "Aakash Gupta",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  }
+}
